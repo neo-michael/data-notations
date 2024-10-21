@@ -53,5 +53,29 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Reserved",
+        "founded": 1998,
+        "headquarters": "Gdańsk, Polska",
+        "employees": 23060,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Walmart",
+        "founded": 1962,
+        "headquarters": "Bentonville, United States",
+        "employees": 2200000,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories",
+            "Footwear",
+            "Sportswear"
+        ]
     }
 ]

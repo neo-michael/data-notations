@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport>
+        <type>Train</type>
+        <capacity>Large</capacity>
+        <speed units="km/s">80</speed>
+        <price units="zł">3.14</price>
+    </transport>
+    <transport>
+        <type>Bus</type>
+        <capacity>Medium</capacity>
+        <speed units="km/s">50</speed>
+        <price units="zł">3</price>
+    </transport>
+</transports>

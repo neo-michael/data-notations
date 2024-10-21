@@ -1,0 +1,18 @@
+[
+    {
+        "from": "Baranówka",
+        "to": "Kraków Główny",
+        "id": "PA 02937029",
+        "price": 3.14,
+        "departure_time": "Mon Oct 21 2024 08:29:00 GMT+0200 (Central European Summer Time)",
+        "arival_time": "Mon Oct 21 2024 08:56:00 GMT+0200 (Central European Summer Time)"
+    },
+    {
+        "from": "Kraków Główny",
+        "to": "Baranówka",
+        "id": "PA 02957029",
+        "price": 3.14,
+        "departure_time": "Mon Oct 21 2024 16:20:00 GMT+0200 (Central European Summer Time)",
+        "arival_time": "Mon Oct 21 2024 16:49:00 GMT+0200 (Central European Summer Time)"
+    }
+]
